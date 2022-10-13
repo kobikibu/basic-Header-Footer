@@ -1,4 +1,4 @@
-# Basic Header & Footer page
+# Basic Header & Footer Page
 
 This is a basic header and footer page
 
